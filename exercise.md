@@ -21,7 +21,7 @@
 - 格子状の補助線を入れる．
 - 凡例は，`f1(x)` と `f2(x)` にする．
 
-![関数のプロット](funcplot.png)
+![関数のプロット](func.pplotng)
 
 ```gnuplot {cmd=true output="html"}
 set terminal svg
