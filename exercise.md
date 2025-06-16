@@ -9,7 +9,7 @@
 - 軸には，縦軸「力(kN)」，横軸「たわみ(m)」のラベルが付いている．
 - 図の右上に凡例が入っている．
 
-![前半で作成したグラフがここに入る](force.png)
+![前半で作成したグラフがここに入る](forceplot.png)
 
 ## 2. 関数のプロット
 
@@ -21,7 +21,7 @@
 - 格子状の補助線を入れる．
 - 凡例は，`f1(x)` と `f2(x)` にする．
 
-![関数のプロット](func.pplotng)
+![関数のプロット](funcplot.png)
 
 ```gnuplot {cmd=true output="html"}
 set terminal svg
